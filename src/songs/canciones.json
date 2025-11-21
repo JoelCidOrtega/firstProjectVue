@@ -1,23 +1,27 @@
 [
   {
-    "title": "Imagine",
-    "artist": "John Lennon",
-    "album": "Imagine",
-    "year": 1971,
-    "genre": "Rock"
+    "id": 1,
+    "nombre": "Ganas",
+    "mp3": "songsmp3/ganas.mp3"
   },
   {
-    "title": "Bohemian Rhapsody",
-    "artist": "Queen",
-    "album": "A Night at the Opera",
-    "year": 1975,
-    "genre": "Rock"
+    "id": 2,
+    "nombre": "El single",
+    "mp3": "songsmp3/la_bicicleta.mp3"
   },
   {
-    "title": "Billie Jean",
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "year": 1982,
-    "genre": "Pop"
+    "id": 3,
+    "nombre": "Entre la luna y yo",
+    "mp3": "songsmp3/vivir_mi_vida.mp3"
+  },
+  {
+    "id": 4,
+    "nombre": "Senda Bellakona",
+    "mp3": "songsmp3/la_bicicleta.mp3"
+  },
+  {
+    "id": 5,
+    "nombre": "Calle cortada",
+    "mp3": "songsmp3/CalleCortada.mp3"
   }
 ]
