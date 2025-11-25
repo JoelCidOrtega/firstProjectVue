@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tussicólogo",
+    "mp3": "/songs/songsmp3/Tussicologo.mp3"
+  },
+  {
+    "id": 2,
+    "nombre": "El single",
+    "mp3": "/songs/songsmp3/ElSingle.mp3"
+  },
+  {
+    "id": 3,
+    "nombre": "Entre la luna y yo",
+    "mp3": "/songs/songsmp3/EntreLaLunaYYo.mp3"
+  },
+  {
+    "id": 4,
+    "nombre": "Senda Bellakona",
+    "mp3": "/songs/songsmp3/SendaBellakona.mp3"
+  },
+  {
+    "id": 5,
+    "nombre": "Calle Cortada",
+    "mp3": "/songs/songsmp3/CalleCortada.mp3"
+  },
+  {
+    "id": 6,
+    "nombre": "MALAMANERA",
+    "mp3": "/songs/songsmp3/MALAMANERA.mp3"
+  },
+  {
+    "id": 7,
+    "nombre": "Smartphone",
+    "mp3": "/songs/songsmp3/Smartphone.mp3"
+  },
+  {
+    "id": 8,
+    "nombre": "Cuando no era cantante",
+    "mp3": "/songs/songsmp3/CuandoNoEraCantante.mp3"
+  },
+  {
+    "id": 9,
+    "nombre": "KE KE (Remix)",
+    "mp3": "/songs/songsmp3/KEKE.mp3"
+  },
+  {
+    "id": 10,
+    "nombre": "Sentimiento Mágico",
+    "mp3": "/songs/songsmp3/SentimientoMagico.mp3"
+  },
+  {
+    "id": 11,
+    "nombre": "Gibraltar",
+    "mp3": "/songs/songsmp3/Gibrealtar.mp3"
+  },
+  {
+    "id": 12,
+    "nombre": "The Lox",
+    "mp3": "/songs/songsmp3/TheLox.mp3"
+  },
+  {
+    "id": 13,
+    "nombre": "Maltrato",
+    "mp3": "/songs/songsmp3/MALTRATO.mp3"
+  },
+  {
+    "id": 14,
+    "nombre": "DAMN",
+    "mp3": "/songs/songsmp3/DAMN.mp3"
+  },
+  {
+    "id": 15,
+    "nombre": "Av. Rafaela Ybarra",
+    "mp3": "/songs/songsmp3/AvRafaelaYbarra.mp3"
+  },
+  {
+    "id": 16,
+    "nombre": "A lo Bellako",
+    "mp3": "/songs/songsmp3/ALOBELLAKO.mp3"
+  },
+  {
+    "id": 17,
+    "nombre": "ALO",
+    "mp3": "/songs/songsmp3/ALO.mp3"
+  },
+  {
+    "id": 18,
+    "nombre": "BUDOKAI",
+    "mp3": "/songs/songsmp3/BUDOKAI.mp3"
+  },
+  {
+    "id": 19,
+    "nombre": "Fiebre",
+    "mp3": "/songs/songsmp3/Fiebre.mp3"
+  },
+  {
+    "id": 20,
+    "nombre": "Volver",
+    "mp3": "/songs/songsmp3/Volver.mp3"
+  }
+]
