@@ -1,27 +1,19 @@
 <template>
-  <footer>
-    <div>
-      <span>Publicado el: <time datetime="2025-11-12">12 de noviembre de 2025</time></span>
-      <br />
-      <span>&copy; 2025 JoelCidOrtega. Todos los derechos reservados.</span>
-      <br />
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2025 Adivina la Canción. Todos los derechos reservados.</p>
     </div>
   </footer>
 </template>
-<script></script>
-<style>
-footer {
-  background-color: #35495e; /* Color solicitado */
-  padding: 20px 0;
-  text-align: center;
-  font-size: 1em;
-  color: #fff; /* Cambia a blanco para mayor contraste */
-  border-top: 1px solid #2c3e50;
-  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.03);
-  margin-top: 40px;
-}
 
-footer time {
-  color: #fafbfc;
+<style scoped>
+.footer {
+  background-color: var(--color-white);
+  padding: 2rem 0;
+  text-align: center;
+  color: var(--color-text-light);
+  font-size: 0.875rem;
+  border-top: 1px solid #f3f4f6;
+  margin-top: auto;
 }
 </style>

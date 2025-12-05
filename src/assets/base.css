@@ -1,0 +1,94 @@
+/* Global CSS & Design Tokens - Simplified */
+:root {
+  --color-primary: #9333ea;
+  /* Purple */
+  --color-secondary: #db2777;
+  /* Pink */
+  --color-accent: #ea580c;
+  /* Orange */
+  --color-bg-light: #f9fafb;
+  /* Light Gray/White */
+  --color-text-dark: #1f2937;
+  --color-text-light: #6b7280;
+  --color-white: #ffffff;
+
+  --font-family-sans: 'Outfit', sans-serif;
+
+  /* Removed complex gradients and shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family-sans);
+  background-color: var(--color-bg-light);
+  color: var(--color-text-dark);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+}
+
+/* Utilities */
+.container {
+  max-width: 1000px;
+  /* Reduced width for simpler look */
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Simple Buttons */
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  /* Standard rounded corners */
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: opacity 0.2s;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+.btn-outline {
+  background-color: white;
+  color: var(--color-text-dark);
+  border: 1px solid #d1d5db;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background-color 0.2s;
+}
+
+.btn-outline:hover {
+  background-color: #f3f4f6;
+}
